@@ -4,4 +4,4 @@
 
 Learning to create a simple game in JavaScript, using classes.
 
-> Run  - main.js
+> Run  -node main.js
